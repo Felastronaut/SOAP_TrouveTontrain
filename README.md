@@ -1,6 +1,6 @@
-# This is the SOAP service to access for calculating the distance between 2 locations by using GPS coordinates
+## This is the SOAP service to access for calculating the distance between 2 locations by using GPS coordinates
 
-# Link to access to te cloud website : (Link)['https://soap-felastronaut-trouvetontra.herokuapp.com/services/CalculDistance']
+## Link to access to te cloud website : (Link)['https://soap-felastronaut-trouvetontra.herokuapp.com/services/CalculDistance']
 
 ```
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:exam="http://example/">
