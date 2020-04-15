@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="ETRS804-TD1bis:war exploded" />
+      <artifact name="ETRS804-TD1bis:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
@@ -170,7 +170,7 @@
       <workItem from="1582012489929" duration="4367000" />
       <workItem from="1582017337920" duration="5295000" />
       <workItem from="1586770377801" duration="1224000" />
-      <workItem from="1586776123300" duration="3896000" />
+      <workItem from="1586776123300" duration="5083000" />
     </task>
     <servers />
   </component>
